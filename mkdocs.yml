@@ -1,0 +1,6 @@
+site_name: Documentation EIG
+site_url: https://entrepreneur-interet-general.github.io/
+nav:
+  - Test: index.md
+  - Bibou: accessibilite.md
+theme: readthedocs
