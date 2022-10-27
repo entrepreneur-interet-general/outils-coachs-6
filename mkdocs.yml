@@ -1,6 +1,45 @@
 site_name: Documentation EIG
 site_url: https://entrepreneur-interet-general.github.io/
 nav:
-  - Test: index.md
-  - Bibou: accessibilite.md
-theme: readthedocs
+  - La promotion: 
+    - Accompagnement de la promotion: promotion/accompagnement.md
+    - Calendrier de la promotion: promotion/planning.md
+    - Séminaire de lancement: promotion/bootcamp.md
+    - Outils de la promotion: promotion/outils-promotion.md
+    - Tiers-lieu: promotion/tiers-lieu.md
+    - Communiquer sur le programme: promotion/communication-externe.md
+
+  - Programme EIG:
+    - Le programme EIG: programme/programme-eig.md
+    - Ecosystème DINUM et Etalab: programme/ecosysteme.md
+    - Ingénierie du programme EIG: programme/ingenerie-programme.md
+    - Le réseau EIG: programme/reseau-eig.md
+
+  - Ressources:
+    - Référentiels de l'Etat: ressources/referentiels.md
+    - Ressources Design: ressources/design.md
+    - Accessibilité: ressources/accessibilite.md
+    - Ressources Techniques: ressources/serveur.md
+    - Comprendre les licences libres: ressources/opensource-licences.md
+    - Publier et réutiliser des données: ressources/opendata.md
+    - Algorithmes publics: ressources/algorithmes-publics.md
+    - Sécurité des produits: ressources/securite.md
+    - Travailler à distance: ressources/travailler-distance.md
+    - Écrire en écriture inclusive sans point médian: ressources/ecriture-inclusive.md
+
+  - Bonnes Pratiques:
+    - Accueillir des EIG: bonnes_pratiques/accueil-eig.md
+    - Préparer et suivre des défis: bonnes_pratiques/preparation-defi.md
+    - Définir des indicateurs et mesurer son impact: bonnes_pratiques/mesure-impact.md
+    - Concevoir: bonnes_pratiques/concevoir.md
+    - Prototyper et tester: bonnes_pratiques/prototyper.md
+    - Ouvrir les productions: bonnes_pratiques/ouvrir-publier.md
+    - Communiquer sur les défis: bonnes_pratiques/communication.md
+    - Documenter les défis: bonnes_pratiques/documentation-defis.md
+    - Pérenniser les défis: bonnes_pratiques/perennisation-defis.md
+
+theme: 
+  name: material
+  logo: images/logo_blanc.png
+  language: fr 
+  favicon: images/favicon.png
