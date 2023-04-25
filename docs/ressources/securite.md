@@ -128,7 +128,6 @@ Cette page est inspirée des sources suivantes que nous recommandons pour aborde
 - [Politique de sécurité de l'Incubateur de Services Numériques de l'État français - beta.gouv.fr](https://github.com/betagouv/beta.ssi)
 - [Agilité et sécurité numériques - ANSSI](https://www.ssi.gouv.fr/uploads/2018/11/guide-securite-numerique-agile-anssi-pa-v1.pdf)
 
-
 ## Glossaire :
 *[DoS]: Denial of Service
 *[DICP]: Indicateurs de sécurité des systèmes d'information : Disponibilité, Intégrité, Confidentialité, Preuve.

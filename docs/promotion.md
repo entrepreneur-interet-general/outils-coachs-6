@@ -1,3 +1,0 @@
-# Promotion
-
-C'est vrai.

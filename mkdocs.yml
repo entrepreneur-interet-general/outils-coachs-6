@@ -1,42 +1,30 @@
 site_name: Documentation EIG
 site_url: https://entrepreneur-interet-general.github.io/
 nav:
-  - La promotion: 
-    - Accompagnement de la promotion: promotion/accompagnement.md
-    - Calendrier de la promotion: promotion/planning.md
-    - Séminaire de lancement: promotion/bootcamp.md
-    - Outils de la promotion: promotion/outils-promotion.md
-    - Tiers-lieu: promotion/tiers-lieu.md
-    - Communiquer sur le programme: promotion/communication-externe.md
-
   - Programme EIG:
-    - Le programme EIG: programme/programme-eig.md
-    - Ecosystème DINUM et Etalab: programme/ecosysteme.md
-    - Ingénierie du programme EIG: programme/ingenerie-programme.md
-    - Le réseau EIG: programme/reseau-eig.md
+    - Les enjeux: enjeux.md
+    - Les valeurs: valeurs.md
+    - Les rôles: roles.md
+    - L'approche: approche.md
+    - Les dispositifs: dispositifs.md
+    - Les services: services.md
+    - Les indicateurs: indicateurs.md
+    - L'écosystème: ecosysteme.md
 
-  - Ressources:
-    - Référentiels de l'Etat: ressources/referentiels.md
-    - Ressources Design: ressources/design.md
-    - Accessibilité: ressources/accessibilite.md
-    - Ressources Techniques: ressources/serveur.md
-    - Comprendre les licences libres: ressources/opensource-licences.md
-    - Publier et réutiliser des données: ressources/opendata.md
-    - Algorithmes publics: ressources/algorithmes-publics.md
-    - Sécurité des produits: ressources/securite.md
-    - Travailler à distance: ressources/travailler-distance.md
-    - Écrire en écriture inclusive sans point médian: ressources/ecriture-inclusive.md
-
-  - Bonnes Pratiques:
-    - Accueillir des EIG: bonnes_pratiques/accueil-eig.md
-    - Préparer et suivre des défis: bonnes_pratiques/preparation-defi.md
-    - Définir des indicateurs et mesurer son impact: bonnes_pratiques/mesure-impact.md
-    - Concevoir: bonnes_pratiques/concevoir.md
-    - Prototyper et tester: bonnes_pratiques/prototyper.md
-    - Ouvrir les productions: bonnes_pratiques/ouvrir-publier.md
-    - Communiquer sur les défis: bonnes_pratiques/communication.md
-    - Documenter les défis: bonnes_pratiques/documentation-defis.md
-    - Pérenniser les défis: bonnes_pratiques/perennisation-defis.md
+  - Ressources utiles:
+    - L'accessibilité numérique : accessibilite.md
+    - Les algorithmes publics: algorithmes.md
+    - Les canaux de communication: communication.md
+    - Le design: design.md
+    - La documentation: documentation.md
+    - L'écriture inclusive: ecriture-inclusive.md
+    - L'intégration des EIG: integration.md
+    - Les licences libres: licences-libres.md
+    - L'ouverture des données: open-data.md
+    - L'ouverture des codes sources: open-source.md
+    - Le prototypage: prototyper.md
+    - La sécurité: securite.md
+    - Le télétravail: travailler-distance.md
 
 theme: 
   name: material

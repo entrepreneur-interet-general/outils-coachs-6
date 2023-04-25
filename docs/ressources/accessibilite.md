@@ -122,7 +122,7 @@ Il existe un moyen d'auditer automatiquement et rapidement une page web à trave
 
 Cela donne l'avantage d'avoir une image rapide de qui est accessible ou non/ Mais cela est très peu qualitatif au regard du nombre de critères testés automatiquement (variant autour de 5% à 25%).
 
-![Exemple de résultat de l'application Asqatasun](../images/exemple-asqatasun.png)
+![Exemple de résultat de l'application Asqatasun](./images/exemple-asqatasun.png)
 _Exemple de résultat de l'application Asqatasun_
 
 D'autres outils de ce type existent comme :

@@ -21,4 +21,4 @@ Ce niveau de prototype, proche de la forme finale, sera l'occasion de tester la 
 
 ## Tester des prototypes
 Dès que le service est testable, il est possible de mettre en place une mesure de l’expérience des usagers à l’aide de questionnaires normés.
-- [Tester avec vos utilisateurs (à distance)](https://doc.incubateur.net/design/nos-rendez-vous-design/formation/tester-avec-vos-utilisateurs-a-distance)
+- [Tester avec vos utilisateurs et utilisatrices (à distance)](https://doc.incubateur.net/design/nos-rendez-vous-design/formation/tester-avec-vos-utilisateurs-a-distance)

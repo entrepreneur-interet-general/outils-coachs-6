@@ -69,8 +69,3 @@ Pour le détail sur la compatibilité des licences voir [ce tableau](https://vvl
 ## Les licences autorisées pour l’administration publique
 
 Etalab publie [la liste des licences autorisées](https://www.data.gouv.fr/fr/licences) pour les données publiques et les codes sources produits et publiés par les administrations publiques.
-
-Si vous avez des questions sur les licences de vos données publiques, contactez [Romain Talès](mailto:romain.tales@modernisation.gouv.fr), référent open data à Etalab.
-
-Si vous avez des questions sur les licences de votre projet logiciel, contactez [Bastien Guerry](mailto:opensource@data.gouv.fr), référent logiciels libres à Etalab.
-

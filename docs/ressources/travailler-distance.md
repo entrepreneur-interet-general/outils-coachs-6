@@ -17,10 +17,6 @@ Pour organiser des réunions à distance, des conférences, des présentations, 
 - **Big Blue Button** : Logiciel “prototype” géré par beta.gouv.fr. Pour l’utiliser, un compte peut être créé sur [Big Blue Button](https://visio.incubateur.net/b).
 Attention cependant, l'accès n'est pas garanti dans toutes les administrations et il n'existe pas de support technique.
 
-### Klaxoon
-Klaxoon est un logiciel collaboratif destiné à faciliter l'organisation d'ateliers et de réunions à distance.
-Une licence Klaxoon, pour utiliser l'outil, est disponible à Etalab. Si vous souhaitez y avoir accès, vous pouvez contacter Thanh Ha Le : thanh-ha.le@data.gouv.fr
-
 ### Tchap
 Tchap est un outil de messagerie instantanée disponible sur smartphone et tablettes Android et Apple, ainsi que sur ordinateur à partir d'un navigateur. Opéré par l’Etat, la messagerie garantit la confidentialité des échanges et propose un annuaire intégré des utilisateurs. Il s’appuie sur un logiciel open source ([Riot](https://element.io/)) et un standard ouvert ([Matrix](https://matrix.org/))
 Tout agent de l’Etat peut créer son compte Tchap à partir de son adresse mail professionnelle en .gouv.
