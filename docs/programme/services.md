@@ -1,7 +1,5 @@
 # Les services
 
-[[toc]]
-
 Outre le cofinancement des défis éligibles, le programme EIG revêt au moins quatre dimensions. À ce titre, l’accompagnement proposé par les coachs du programme comprend autant de volets méthodologiques, qui dépassent le cadre du développement de services numériques.
 
 #### Recrutement

@@ -2,8 +2,6 @@
 
 Afin de favoriser la communication et l’organisation des projets à distance, plusieurs outils collaboratifs peuvent être mis en place dans les administrations.
 
-[[toc]]
-
 ## Outils collaboratifs
 
 ### Resana

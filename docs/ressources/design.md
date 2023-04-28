@@ -2,8 +2,6 @@
 
 Les ressources suivantes peuvent être utiles à la fois aux designers fraîchement arrivés dans l'administration et aux mentors cherchant à découvrir ou approfondir leur connaissance du design :
 
-[[toc]]
-
 ## Initier une démarche design
 - La boite à outils **[Comment faire](http://comment-faire.modernisation.gouv.fr/)**  permet de découvrir les méthodes de design de service ou de politique publique. Conçu par la DITP (Direction interministérielle de la transformation publique) elle offre une appropriation de la méthode [design thinking](http://comment-faire.modernisation.gouv.fr/demarche-design/) aux services publics.
 

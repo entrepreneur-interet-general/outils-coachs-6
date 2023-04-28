@@ -10,8 +10,6 @@ Les dispositifs décrits ci-après sont :
 - au service du développement des compétences à mobiliser pendant la phase concernée ;
 - conçus, programmés et animés par les coachs EIG avec le concours d’expert(e)s.
 
-[[toc]]
-
 ### L’accompagnement des défis EIG
 
 #### Atelier collaboratif

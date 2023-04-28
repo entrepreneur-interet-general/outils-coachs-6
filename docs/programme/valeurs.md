@@ -1,7 +1,5 @@
 # Les valeurs
 
-[[toc]]
-
 ### Un service public inclusif et accessible
 
 #### L’accessibilité numérique

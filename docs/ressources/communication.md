@@ -1,7 +1,5 @@
 # Communiquer
 
-[[toc]]
-
 ## Les canaux officiels
 
 ### Le site Web

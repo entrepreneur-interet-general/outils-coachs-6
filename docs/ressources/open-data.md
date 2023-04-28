@@ -8,8 +8,6 @@ Etalab a produit des guides très utiles sur l'ouverture des données :
 - [La réutilisation des données](https://guides.etalab.gouv.fr/juridique/ouverture/)
 :::
 
-[[toc]]
-
 ## Obligation de publication
 
 L'obligation de publication des documents administratifs par les organismes en charge d'une mission de service public est précisée dans le [livre III du Code des relations entre le public et l'administration](https://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000031367685&cidTexte=LEGITEXT000031366350&dateTexte=20190225).

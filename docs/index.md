@@ -2,8 +2,6 @@
 
 Vous êtes lauréat(e) du programme [Entrepreneur(e)s d’Intérêt Général (EIG)](https://eig.etalab.gouv.fr/). Vous avez rejoint un collectif d’agent(e)s du service public, en charge de relever un défi d’intérêt général au sein d'une administration centrale ou d'un opérateur de l'État, en vous appuyant sur le numérique. Vous ne connaissez peut-être pas encore le numérique public, son cadre juridique, ses [enjeux](enjeux.md#embrasser-une-diversité-de-contextes-et-denjeux), ses [valeurs](valeurs.md). Les ressources partagées sur ce site documentaire visent à vous aider, en complément de la facilitation proposée par les [coachs EIG](roles.md#coachs-eig).
 
-[[toc]]
-
 ### L’écosystème
 
 #### Une synergie interministérielle 

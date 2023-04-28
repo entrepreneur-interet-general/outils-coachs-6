@@ -2,8 +2,6 @@
 
 L’innovation est un chemin pavé d’incertitudes et d’opportunités. Le programme EIG propose un cadre d’accompagnement en 4 phases pour faciliter la relève des défis. Avec le concours des expert(e)s de la [Direction interministérielle du numérique (DINUM)](https://www.numerique.gouv.fr/dinum/), les coachs EIG fournissent un appui méthodologique et une expertise entrepreneuriale tout au long des 10 mois.
 
-[[toc]]
-
 ### Phase n° 1 – Valider l’hypothèse (2 mois)
 
 ::: tip Comprendre, prototyper, aligner

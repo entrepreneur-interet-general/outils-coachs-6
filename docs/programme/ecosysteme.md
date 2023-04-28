@@ -1,7 +1,5 @@
 # L'écosystème
 
-[[toc]]
-
 ## Le département Etalab
 
 ### Pôle Ouverture et partage des donnée

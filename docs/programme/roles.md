@@ -1,7 +1,5 @@
 # Les rôles
 
-[[toc]]
-
 ### Au sein de l’administration d’accueil
 
 #### Entrepreneur(e)s d’intérêt général (EIG)

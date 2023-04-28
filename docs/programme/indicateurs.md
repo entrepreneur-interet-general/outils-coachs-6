@@ -1,7 +1,5 @@
 # Les indicateurs du programme EIG
 
-[[toc]]
-
 Le programme EIG mesure deux indicateurs dans le cadre du [Projet de loi de finances (PLF)](https://www.economie.gouv.fr/le-projet-de-loi-de-finances-comment-ca-marche), portent sur l'internalisation des compétences numériques dans l'administration :
 - Le nombre d'EIG recruté(e)s chaque année par le programme ;
 - Le nombre d'EIG qui continuent à travailler dans l'administration suite au programme.

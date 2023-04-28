@@ -1,7 +1,5 @@
 # Accueillir et intégrer les EIG
 
-[[toc]]
-
 Vous êtes porteur/porteuse d'un défi EIG et vous apprêtez à accueillir des EIG dans votre administration ? Ce guide vous propose quelques bonnes pratiques et actions en vue de l'arrivée des EIG.
 
 ## Avant l'arrivée des EIG

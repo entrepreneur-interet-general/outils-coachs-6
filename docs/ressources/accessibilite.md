@@ -8,8 +8,6 @@
 Initialement relatif au monde du handicap, des enfants ou des personnes âgées, l’accessibilité s'est étendue à l'ensemble des citoyens et utilisé pour désigner l'accès à de nombreux domaines : **physique**, la liberté de déplacement dans l’espace (mobilité) ; **éducatif**, le droit à une scolarisation ; **civique**, le droit de vote ; **culturel**, pouvoir développer sa culture ; **numérique**, adaptation des systèmes numériques, dont les sites web, aux différents types de handicap, développement d'outils spécifiques tels loupe ou clavier visuel...
 
 
-[[toc]]
-
 ## Comprendre le RGAA 4 
 
 RGAA signifie Référentiel Général d'Amélioration de l'Accessibilité. Ce référentiel est actuellement en **version 4** à l'adresse suivante : [https://www.numerique.gouv.fr/publications/rgaa-accessibilite/](https://www.numerique.gouv.fr/publications/rgaa-accessibilite/)

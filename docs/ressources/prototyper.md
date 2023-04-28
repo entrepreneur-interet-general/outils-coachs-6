@@ -2,8 +2,6 @@
 
 Un processus itératif de recherche et d’expérimentation permettra d’explorer les solutions possibles et de prendre des décisions concernant les orientations du projets et des choix de conception ou techniques.
 
-[[toc]]
-
 ## Incarner et rendre visible une solution
 Concevoir des prototypes dès le démarrage du projet aide à préfigurer le fonctionnement de la solution en situation réelle.
 Avec un prototype, vous proposez à vos usagers une première expérience, vous mesurez si la solution répond à leurs besoins et vous observez leur compréhension du service et leurs interactions afin d’améliorer votre solution. En rendant visible un début de solution, tôt dans le projet, vous permettez aussi aux parties prenantes du service de se projeter concrètement dans son fonctionnement et d’anticiper ses conditions de mise en œuvre.

@@ -1,7 +1,5 @@
 # L'écriture inclusive
 
-[[toc]]
-
 ## Qu'est-ce que l'écriture inclusive ? 
 
 ::: tip Définition

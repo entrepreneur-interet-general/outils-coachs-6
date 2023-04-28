@@ -2,8 +2,6 @@
 
 Le programme EIG s’inspire des cadres de référence de l’innovation, tels que le « Design Thinking » ou le « Lean Startup ». Ces paradigmes fournissent des leviers aux entrepreneur(e)s pour créer de la valeur, capter des opportunités, transformer leur environnement et amplifier leur impact, quels que soient la nature et le stade de leur initiative entrepreneuriale.
 
-[[toc]]
-
 ### Embrasser une diversité de contextes et d’enjeux
 Le programme EIG se place au service d’une hétérogénéité de projets, afin d’être en phase avec la maturité et les enjeux de chaque administration d’accueil. Aussi, l’accompagnement est pensé pour s’adapter à des contextes singulièrement différents :
 - l’**accélération de politiques prioritaires** ([France Transition](https://eig.etalab.gouv.fr/defis/france-transition/) et [État bas carbone](https://eig.etalab.gouv.fr/defis/etat-bas-carbone/) au Commissariat général au développement durable...) ;
