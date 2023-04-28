@@ -13,7 +13,7 @@ Tous les codes sources, documents ou données ne peuvent être publiés ou commu
 
 La liste des exceptions est listée dans l'[article L311-5 du Code des relations entre le public et l'administration](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031367708).
 
--*Si vous avez le moindre doute, prenez contact avec votre hiérarchie et Etalab, ne communiquez ou ne publiez rien !**
+**Si vous avez le moindre doute, prenez contact avec votre hiérarchie et Etalab, ne communiquez ou ne publiez rien !**
 
 ## Choisir une licence libre pour vos codes sources
 Le sujet des licences peut paraître déconcertant. Choisir une licence adéquate permet à un utilisateur d'utiliser, étudier, copier et modifier le logiciel publié. Pour mieux vous aider à comprendre les licences libres et leurs familles, vous pouvez vous référer à une [page dédiée](./opensource-licences.md).

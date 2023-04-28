@@ -1,7 +1,7 @@
-*[RGAA]: Référentiel Général d'Amélioration de l'Accessibilité
--[DILA]: Direction de l'information légale et administrative
--[WCAG]: Web Content Accessibility Guidelines (Règles pour l'accessibilité des contenus Web)
--[WAI]: Web Accessibility Initiative (L'Initiative sur l'Accessibilité du web)
+- [RGAA]: Référentiel Général d'Amélioration de l'Accessibilité
+- [DILA]: Direction de l'information légale et administrative
+- [WCAG]: Web Content Accessibility Guidelines (Règles pour l'accessibilité des contenus Web)
+- [WAI]: Web Accessibility Initiative (L'Initiative sur l'Accessibilité du web)
 
 # Accessibilité 
 

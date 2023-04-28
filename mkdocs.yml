@@ -31,3 +31,7 @@ theme:
   logo: images/logo_blanc.png
   language: fr 
   favicon: images/favicon.png
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.path

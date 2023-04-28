@@ -8,7 +8,7 @@ Vous êtes porteur/porteuse d'un défi EIG et vous apprêtez à accueillir des E
 
 ### Assurer aux EIG un accès aux données
 
--Ne sous-estimez pas le nombre d'obstacles qui peuvent se mettre en travers de l'accès aux données.*
+- Ne sous-estimez pas le nombre d'obstacles qui peuvent se mettre en travers de l'accès aux données.
 
 Les données peuvent être accessible sous plusieurs formes :
 
@@ -25,7 +25,7 @@ Pour ce faire, vous pouvez vous appuyer sur plusieurs allié(e)s :
 
 ### Préparer le poste de travail des EIG
 
--Consultez les EIG en amont sur leurs postes de travail.*
+- Consultez les EIG en amont sur leurs postes de travail.
 
 - Pour un(e) designer : demandez aux EIG s'iels ont besoin de **logiciels spécifiques** pour travailler : Figma et la suite Adobe sont souvent demandés par les designers.
 - Pour un(e) ingénieur(e) de la donnée ou des sciences de la donnée : demandez aux EIG de **quelle puissance de calcul** iels ont besoin sur leur machine : en général, prévoir 16 Go ou 32 Go de RAM pour des machines confortables.
@@ -34,7 +34,7 @@ Pour ce faire, vous pouvez vous appuyer sur plusieurs allié(e)s :
 
 ### Assurer aux EIG un accès ouvert à Internet
 
--Les EIG ont besoin d'un accès non bridé à Internet.*
+- Les EIG ont besoin d'un accès non bridé à Internet.
 
 « Non bridé » signifie :
 - qu'il n'y a pas de démarche à effectuer pour accéder à un site web, quel qu'il soit ;
@@ -49,7 +49,7 @@ Plusieurs porteurs/porteuses de projet des promotions précédentes ont insisté
 
 ### Aider les EIG à anticiper la pérennisation de leur défi
 
--Avant même l'arrivée des EIG, il est important de présenter le défi aux différentes parties prenantes, dont la DSI.*
+- Avant même l'arrivée des EIG, il est important de présenter le défi aux différentes parties prenantes, dont la DSI.
 
 Un défi EIG qui n'est pas au minimum intégré à la feuille de route de la DSI, ni à son cadre de cohérence technique est souvent un défi à risque.
 
@@ -61,7 +61,7 @@ Une checklist vous permettant de suivre les étapes de l'accueil des EIG est dis
 
 ### Aider les EIG à identifier les bonnes personnes
 
--Aidez les EIG à faire connaissance en personne avec leurs futur(e)s allié(e)s.*
+- Aidez les EIG à faire connaissance en personne avec leurs futur(e)s allié(e)s.
 
 - AMDAC : L'administrateur/administratice ministériel(le) des données, des algorithmes et des codes-sources
 - DAJ : La directrice ou le directeur des affaires juridiques
@@ -74,7 +74,7 @@ Vous pouvez utiliser cet outil de [cartographie des acteurs](https://github.com/
 
 ### Aider les EIG à se familiariser avec le métier et à se faire connaître dans leur administration d'accueil
 
--Aidez les EIG à découvrir rapidement l'écosystème et à trouver leurs futur(e)s utilisateurs/utilisatrices.*
+- Aidez les EIG à découvrir rapidement l'écosystème et à trouver leurs futur(e)s utilisateurs/utilisatrices. 
 
 Quelques idées :
 
@@ -86,7 +86,7 @@ Quelques idées :
 
 ### S'impliquer dans des rituels avec les EIG
 
--*Les EIG ne sont ni prestataires, ni en complète autonomie pour décider de leur feuille de route. Iels ont également besoin de l'expertise métier des agent(e)s de service public.**
+- **Les EIG ne sont ni prestataires, ni en complète autonomie pour décider de leur feuille de route. Iels ont également besoin de l'expertise métier des agent(e)s de service public.**
 
 La relève du défi exige une **collaboratoire étroite** entre les porteurs/porteuses et les EIG, autour d'une même compréhension des enjeux, des objectifs et des initiatives. 
 
