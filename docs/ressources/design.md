@@ -33,7 +33,7 @@ Nous vous conseillons donc de créer et de publier sur un dépôt [GitHub de l'o
 
 > Pour les débutants de GitHub, nous vous conseillons d'avoir l'outil [GitHub Desktop](https://desktop.github.com/) afin de *commiter* vos productions sur votre dépôt.
 
-**Format des données**
+-*Format des données**
 La loi pour une République Numérique de 2016 demande également l'utilisation des formats favorisant l'interopérabilité, c'est le droit à la portabilité. Il faut donc privilégier des formats ouverts et lisibles par d'autres autant que possible.
 
 Concernant les productions de design, il est donc préférable d'exporter son travail aux formats ouverts suivants `.svg` ou `.eps`, bien qu'il soit courant de voir des fichiers aux formats `.sketch` ou `.ai`.

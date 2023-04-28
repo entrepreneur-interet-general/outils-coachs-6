@@ -2,29 +2,29 @@ site_name: Documentation EIG
 site_url: https://entrepreneur-interet-general.github.io/
 nav:
   - Programme EIG:
-    - Les enjeux: enjeux.md
-    - Les valeurs: valeurs.md
-    - Les rôles: roles.md
-    - L'approche: approche.md
-    - Les dispositifs: dispositifs.md
-    - Les services: services.md
-    - Les indicateurs: indicateurs.md
-    - L'écosystème: ecosysteme.md
+    - Les enjeux: programme/enjeux.md
+    - Les valeurs: programme/valeurs.md
+    - Les rôles: programme/roles.md
+    - L'approche: programme/approche.md
+    - Les dispositifs: programme/dispositifs.md
+    - Les services: programme/services.md
+    - Les indicateurs: programme/indicateurs.md
+    - L'écosystème: programme/ecosysteme.md
 
   - Ressources utiles:
-    - L'accessibilité numérique : accessibilite.md
-    - Les algorithmes publics: algorithmes.md
-    - Les canaux de communication: communication.md
-    - Le design: design.md
-    - La documentation: documentation.md
-    - L'écriture inclusive: ecriture-inclusive.md
-    - L'intégration des EIG: integration.md
-    - Les licences libres: licences-libres.md
-    - L'ouverture des données: open-data.md
-    - L'ouverture des codes sources: open-source.md
-    - Le prototypage: prototyper.md
-    - La sécurité: securite.md
-    - Le télétravail: travailler-distance.md
+    - L'accessibilité numérique : ressources/accessibilite.md
+    - Les algorithmes publics: ressources/algorithmes.md
+    - Les canaux de communication: ressources/communication.md
+    - Le design: ressources/design.md
+    - La documentation: ressources/documentation.md
+    - L'écriture inclusive: ressources/ecriture-inclusive.md
+    - L'intégration des EIG: ressources/integration.md
+    - Les licences libres: ressources/licences-libres.md
+    - L'ouverture des données: ressources/open-data.md
+    - L'ouverture des codes sources: ressources/open-source.md
+    - Le prototypage: ressources/prototyper.md
+    - La sécurité: ressources/securite.md
+    - Le télétravail: ressources/travailler-distance.md
 
 theme: 
   name: material
